@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { animationAPISlide, animationSlide } from './slide';
+  import { animationSlide } from './slide';
   export let buttonText = '';
   export let isOpen = true;
   export let duration = 300;
